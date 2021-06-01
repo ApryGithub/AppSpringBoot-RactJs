@@ -1,0 +1,5 @@
+"user_id","user_name","user_genre","user_birthday","user_address","user_email","user_role_id"
+2,"admin","male","1988-09-19","Cikupa Tangerang","suprianto1917@gmail.com",1
+1,"Developer","male","1988-09-19","Cikupa","suprianto1917@gmail.com",3
+5,"Managet IT","male","2021-05-31","Cikupa","apry@apry.com",8
+6,"User","male","2021-05-31","Jakarta","apry@apry.com",3
